@@ -3,7 +3,7 @@
 I study CS @ UCLA.
 
 
-[![Maanas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaanasGantla)](https://github.com/anuraghazra/github-readme-stats)
+<[![Maanas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaanasGantla)](https://github.com/anuraghazra/github-readme-stats)>
 
 
 <!--
