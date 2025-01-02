@@ -1,4 +1,4 @@
-## Maanas
+## Maanas Gantla
 
 I study CS @ UCLA.
 
